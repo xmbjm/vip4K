@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🐼┃豆瓣┃【关注公众号：熊猫不叫猫】🐼",
+      "name": "📚┃豆瓣┃【接口纯属网络整合】📚",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "Bili",
-      "name": "🐼哔哩合集┃所有资源均为免费提供",
+      "name": "📚哔哩合集┃所有资源均为免费提供",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -27,7 +27,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "🐼4KHDR┃T4站-A",
+      "name": "📚4KHDR┃T4站-A",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "🐼4KHDR┃4K站-B",
+      "name": "📚4KHDR┃4K站-B",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🐼4KHDR┃4K站-C",
+      "name": "📚4KHDR┃4K站-C",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "七夜",
-      "name": "🐼4KHDR┃4K站-D",
+      "name": "📚4KHDR┃4K站-D",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -66,35 +66,35 @@
     },
     {
       "key": "优酷",
-      "name": "🐼2KHDR┃官源-1",
+      "name": "📚2KHDR┃官源-1",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
     },
     {
       "key": "芒果",
-      "name": "🐼2KHDR┃官源-2",
+      "name": "📚2KHDR┃官源-2",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/mangguo.js"
     },
     {
       "key": "爱奇异",
-      "name": "🐼2KHDR┃官源-3",
+      "name": "📚2KHDR┃官源-3",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/aiqiyi.js"
     },
     {
       "key": "腾讯",
-      "name": "🐼2KHDR┃官源-4",
+      "name": "📚2KHDR┃官源-4",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/tengxun.js"
     },
     {
       "key": "Czsapp",
-      "name": "🐼2KHDR┃秒播-A",
+      "name": "📚2KHDR┃秒播-A",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -105,7 +105,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🐼2KHDR┃秒播-B",
+      "name": "📚2KHDR┃秒播-B",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -115,7 +115,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🐼2KHDR┃秒播-C",
+      "name": "📚2KHDR┃秒播-C",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -125,7 +125,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🐼2KHDR┃秒播-D",
+      "name": "📚2KHDR┃秒播-D",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -134,7 +134,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🐼热门┃歌曲",
+      "name": "📚热门┃歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -148,7 +148,7 @@
     },
     {
       "key": "js58",
-      "name": "🐼五八┃动漫",
+      "name": "📚五八┃动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -158,7 +158,7 @@
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🐼动漫┃巴士",
+      "name": "📚动漫┃巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -168,7 +168,7 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "🐼Jrs球┃直播",
+      "name": "📚Jrs球┃直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/JRKAN直播.js",
@@ -182,7 +182,7 @@
     },
     {
       "key": "88js",
-      "name": "🐼看球┃球迷",
+      "name": "📚看球┃球迷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -196,14 +196,14 @@
     },
     {
       "key": "drpy_js_短剧网",
-      "name": "🐼短剧┃大全",
+      "name": "📚短剧┃大全",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/短剧网.js"
     },
     {
       "key": "戏曲杂苑",
-      "name": "🐼戏曲｜大全",
+      "name": "📚戏曲｜大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -213,7 +213,7 @@
     },
     {
       "key": "相声小品",
-      "name": "🐼相声｜小品",
+      "name": "📚相声｜小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -223,7 +223,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "🐼教育┃儿童启蒙",
+      "name": "📚教育┃儿童启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
@@ -237,7 +237,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "🐼教育┃少儿教育",
+      "name": "📚教育┃少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -251,7 +251,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "🐼教育┃小学课堂",
+      "name": "📚教育┃小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -265,7 +265,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "🐼教育┃初中课堂",
+      "name": "📚教育┃初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -279,7 +279,7 @@
     },
     {
       "key": "高中教育",
-      "name": "🐼教育┃高中课堂",
+      "name": "📚教育┃高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
